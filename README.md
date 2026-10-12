@@ -12,7 +12,6 @@ I'm a CSE student at G. Narayanamma Institute of Technology and Science, Hyderab
 
 ### Featured Work
 
-- **Sorting Visualizer** — JavaScript project exploring sorting algorithms and visualisation.
 - **FORWARD** — AI-driven placement-readiness prediction project.
 - **AI Claims Projects** — Team project work related to machine-learning-based insurance claim assessment.
 
