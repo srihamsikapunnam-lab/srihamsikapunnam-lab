@@ -1,4 +1,4 @@
-# Hi, I'm Srihamsika Punnam 👋
+# Hi, I'm Punnam Srihamsika
 
 ### Computer Science & Engineering Student | AI/ML & Software Engineering
 
