@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Srihamsika Punnam 👋
 
-<!--
-**srihamsikapunnam-lab/srihamsikapunnam-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student | AI/ML & Software Engineering
 
-Here are some ideas to get you started:
+I'm a CSE student at G. Narayanamma Institute of Technology and Science, Hyderabad, interested in building practical software applications and exploring machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently exploring: Machine Learning and Full-Stack Development
+- Interests: AI/ML, explainable AI, and software engineering
+- Technologies I've worked with: Python, Java, React, FastAPI, XGBoost, and SHAP
+- Achievement: 3rd place at INNOVASIA 2K25
+- Currently improving: Problem-solving, project documentation, and software development skills
+
+### Featured Work
+
+- **Sorting Visualizer** — JavaScript project exploring sorting algorithms and visualisation.
+- **FORWARD** — AI-driven placement-readiness prediction project.
+- **AI Claims Projects** — Team project work related to machine-learning-based insurance claim assessment.
+
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/srihamsika-punnam-69669632b/)
+- [GitHub](https://github.com/srihamsikapunnam-lab)
+
+*Always learning, building, and improving one project at a time.*
